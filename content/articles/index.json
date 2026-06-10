@@ -12,5 +12,21 @@
     "seoTitle": "Test123e Genérico Blog",
     "seoDescription": "121423123",
     "url": "../artigo/?s=teste-de-blog123123"
+  },
+  {
+    "title": "teste4",
+    "slug": "teste4",
+    "excerpt": "",
+    "category": "Reforma Tributária",
+    "author": "Tech Time",
+    "date": "2026-06-10",
+    "featuredImage": "",
+    "tags": [
+      "reforma"
+    ],
+    "published": true,
+    "seoTitle": "teste4",
+    "seoDescription": "teste4",
+    "url": "reforma-tributaria/teste4/"
   }
 ]
