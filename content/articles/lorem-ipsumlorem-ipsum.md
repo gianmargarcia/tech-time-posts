@@ -8,7 +8,7 @@ date: 2026-06-10
 featuredImage: 
 tags:
   - REFORMA
-published: true
+published: false
 seoTitle: "LOREM IPSUM"
 seoDescription: "LOREM IPSUM"
 ---
