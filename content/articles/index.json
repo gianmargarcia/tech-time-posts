@@ -12,21 +12,5 @@
     "seoTitle": "Test123e Genérico Blog",
     "seoDescription": "121423123",
     "url": "../artigo/?s=teste-de-blog123123"
-  },
-  {
-    "title": "LORE123M IPSUMLOREM IPSUM",
-    "slug": "lore123m-ipsumlorem-ipsum",
-    "excerpt": "LOREM IPSUMLOREM IPSUM",
-    "category": "Reforma Tributária",
-    "author": "Tech Time",
-    "date": "2026-06-10",
-    "featuredImage": "",
-    "tags": [
-      "reforma"
-    ],
-    "published": true,
-    "seoTitle": "LORE123M IPSUMLOREM IPSUM",
-    "seoDescription": "LORE123M IPSUMLOREM IPSUM",
-    "url": "../artigo/?s=lore123m-ipsumlorem-ipsum"
   }
 ]
