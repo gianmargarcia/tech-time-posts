@@ -16,5 +16,19 @@
     "seoTitle": "Teste Genérico Blog",
     "seoDescription": "Teste genérico para um blog super bonito",
     "url": "../artigo/?s=teste-de-blog"
+  },
+  {
+    "title": "Teste de Blog123123",
+    "slug": "teste-de-blog123123",
+    "excerpt": "12356732456",
+    "category": "Reforma Tributária",
+    "author": "Tech Time",
+    "date": "2026-06-10",
+    "featuredImage": "",
+    "tags": [],
+    "published": true,
+    "seoTitle": "Test123e Genérico Blog",
+    "seoDescription": "121423123",
+    "url": "../artigo/?s=teste-de-blog123123"
   }
 ]
