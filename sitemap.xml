@@ -73,6 +73,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://digisat.com.br/lp/tech-time/reforma-tributaria/teste8/</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://digisat.com.br/lp/tech-time/tag/2025/</loc>
     <lastmod>2025-06-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -80,7 +86,7 @@
   </url>
   <url>
     <loc>https://digisat.com.br/lp/tech-time/tag/cbs/</loc>
-    <lastmod>2025-06-09</lastmod>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -92,7 +98,7 @@
   </url>
   <url>
     <loc>https://digisat.com.br/lp/tech-time/tag/ibs/</loc>
-    <lastmod>2025-06-09</lastmod>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
